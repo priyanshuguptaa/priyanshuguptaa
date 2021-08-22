@@ -8,7 +8,7 @@
  
 🧑  I’m a full stack developer, keen to explore new technologies and expand my learning.
 
-🎓 An aspiring computer engineer, currently pursuing my bachelor’s degree.
+🎓 An aspiring engineer, currently pursuing my bachelor’s degree in computer engineering.
 
 🤝 I’m looking to collaborate on web development projects.
 
