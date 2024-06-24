@@ -8,15 +8,15 @@
  
 🧑  I’m a full stack developer, keen to explore new technologies and expand my learning.
 
-🎓 Currently pursuing my bachelor’s degree in computer engineering.
+🎓 Currently working as Software Engineer I at Pepperfry.
 
 🤝 I’m looking to collaborate on web development projects.
 
-📖 I’m currently learning electron.js & AWS.
+📖 I’m currently learning AWS & Golang.
 
-💬 Ask me about MERN stack.
+💬 Ask me about full stack development, distributed systems.
 
-📧 Feel free to reach out to me at priyanshupankaj2001@gmail.com for general discussion.
+📧 Feel free to reach out to me at priyanshugupta.mailbox@gmail.com for general discussion.
 
 🎵 I love to listen music.
 
