@@ -1,5 +1,4 @@
 
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Infrastructure+%26+Performance;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+high-performance%2C+accessible+products;10K%2B+B2B+accounts+across+30%2B+countries;Software+Engineer+%7C+Avalara" alt="Typing SVG" />
 </a>
@@ -8,7 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshuguptaa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshugupta.mailbox@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PUT_YOUR_USERNAME_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshuguptaa)
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshuguptaa&color=blue&style=flat-square)
 
 ---
 
@@ -48,26 +49,28 @@ Full‑stack engineer with 4 years building high‑performance, accessible web a
 
 ---
 
-## 📊 GitHub Activity
+## 🌱 Currently Building
+
+> These are the projects I'm actively developing to sharpen my craft.  
+> Repos will be public soon — star them to follow along!
+
+| Project                                          | Stack                          | Focus Area                            | Status         |
+|--------------------------------------------------|--------------------------------|---------------------------------------|----------------|
+| `high-perf-dashboard`                            | Next.js, TypeScript, Redis     | Core Web Vitals, real‑time data       | 🔨 In progress |
+| `component-library`                              | React, Storybook, TypeScript   | Design system, accessibility          | 📐 Designing   |
+| `web-perf-labs`                                  | Vite, Lighthouse CI            | Performance benchmarking, experiments | 🧪 Experimenting |
+
+---
+
+## 📊 Activity & Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptaa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuguptaa&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <sub>📈 GitHub stats will populate as I ship more public code. Watch this space.</sub>
 </div>
 
-<details>
-  <summary>📈 Contribution graph (click to expand)</summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptaa&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
-    </a>
-  </div>
-</details>
+<br/>
 
 ---
 
